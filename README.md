@@ -1,2 +1,2 @@
 # Java-Web-Stock-Scraper
-A web scraper, which gets data about stocks 
+A web scraper, that gets data about stocks 
